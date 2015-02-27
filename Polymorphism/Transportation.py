@@ -1,4 +1,5 @@
 from Taxi import *
+from Train import *
 
 class Transportation(object):
    """Abstract base class"""
