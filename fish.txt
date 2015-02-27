@@ -1,0 +1,5 @@
+﻿ปลา Anglerfish
+ปลา Barracuda
+ปลา Bass
+ปลา Cod
+ปลา Haddock
